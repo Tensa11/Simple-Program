@@ -22,10 +22,10 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         id: 1,
         name: 'Francis Mabanta',
         address: "83 West County Ave. Van Nuys, CA 91405",
-        position: 'Director',
+        position: 'Board Director',
         birthday: 'Jan 16, 1991',
         age: '31',
-        image: 'assets/images/Team1-Employee-1.png',
+        image: 'assets/images/Team1-Employee-0.jpg',
         coverPhoto: 'assets/images/Office-Team1.jpg'
     ),
     Employee(
@@ -98,8 +98,8 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         position: 'Media Director',
         birthday: 'March 16, 1991',
         age: '31',
-        image: 'assets/images/Team1-Employee-1.png',
-        coverPhoto: 'assets/images/Office-Team1.jpg'
+        image: 'assets/images/Team2-Employee-0.jpg',
+        coverPhoto: 'assets/images/Office-Team2.jpg'
     ),
     Employee(
         id: 2,
